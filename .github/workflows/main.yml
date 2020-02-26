@@ -2,8 +2,8 @@ name: AzureSpringCloud
 on: push
 
 env:
-  GROUP: <resource group name>
-  SERVICE_NAME: <service instance name>
+  GROUP: sbdemo0226
+  SERVICE_NAME: zerosbdemoga
 
 jobs:
   build-and-deploy:
